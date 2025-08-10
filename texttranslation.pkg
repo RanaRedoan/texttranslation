@@ -1,0 +1,8 @@
+v 1.0.0
+d 'texttranslation': Translate survey open-ended responses (Bangla/English) in Stata without API key
+d Requires Python and googletrans library
+d Author: YOUR NAME
+d Date: 10 August 2025
+f texttranslation.ado
+f texttranslation.sthlp
+f translate_helper.py
